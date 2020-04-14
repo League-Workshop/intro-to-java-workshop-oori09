@@ -9,7 +9,12 @@ public class MyFirstJavaProgram {
 		
 		// START HERE
 	
-		
-		
+		Robot rob = new Robot();//this makes the robot.
+		for(int i = 0; i < 6; i++) {
+		rob.turn(360/6);
+		rob.penDown();
+		rob.move(10);
+		}
+	
 	}
 }

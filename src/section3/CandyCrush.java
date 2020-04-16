@@ -13,6 +13,7 @@ String person = JOptionPane.showInputDialog("hello, who do you not like?");
 String friend = JOptionPane.showInputDialog("what is the name of your best friend?");
 		// 4. Tell them their best friend is as sweet as candy
 JOptionPane.showInputDialog("your best freind is as sweet as candy(:");
+JOptionPane.showInputDialog("if you thoutt something whas going to happen when you typied in the text box under your best freind is as sweet as candy then it was a trick aprill fools, hahahahaha");
 	} 
 }
 
